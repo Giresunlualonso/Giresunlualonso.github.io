@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img"><rect width="400" height="300" fill="#1a1e25"/>
+<path d="M140 30l-70 30-40 62 44 22 26-30v166h200V114l26 30 44-22-40-62-70-30c-8 22-30 36-60 36s-52-14-60-36z" fill="#F50537"/>
+<path d="M140 30c8 22 30 36 60 36s52-14 60-36l-12-4c-8 16-26 26-48 26s-40-10-48-26z" fill="#bf042b"/>
+<path d="M100 150h200v18H100z" fill="#f4f5f7" opacity=".9"/>
+<path d="M100 176h200v6H100z" fill="#f4f5f7" opacity=".6"/>
+<text x="200" y="232" text-anchor="middle" font-family="Titillium Web,Arial,sans-serif" font-weight="700" font-size="30" fill="#f4f5f7" letter-spacing="3">2026</text>
+</svg>

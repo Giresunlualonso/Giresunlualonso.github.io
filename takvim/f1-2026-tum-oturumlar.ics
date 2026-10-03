@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//F1 Telemetri//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:F1 2026 – Tüm oturumlar
+BEGIN:VEVENT
+UID:11731-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261004T070000Z
+DTEND:20261004T090000Z
+SUMMARY:F1 Bahreyn GP (Malezya) – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/bahreyn-malezya/
+DESCRIPTION:Bahreyn GP (Malezya) Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/bahreyn-malezya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11378-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:F1 Singapur GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/singapur/
+DESCRIPTION:Singapur GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/singapur/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11379-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131400Z
+SUMMARY:F1 Singapur GP – Sprint sıralaması
+URL:https://www.f1telemetri.com/yaris/2026/singapur/
+DESCRIPTION:Singapur GP Sprint sıralaması. Sonuçlar: https://www.f1telemetri.com/yaris/2026/singapur/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sprint sıralaması 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11383-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:F1 Singapur GP – Sprint
+URL:https://www.f1telemetri.com/yaris/2026/singapur/
+DESCRIPTION:Singapur GP Sprint. Sonuçlar: https://www.f1telemetri.com/yaris/2026/singapur/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sprint 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11384-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:F1 Singapur GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/singapur/
+DESCRIPTION:Singapur GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/singapur/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11388-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:F1 Singapur GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/singapur/
+DESCRIPTION:Singapur GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/singapur/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11389-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:F1 ABD GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abd/
+DESCRIPTION:ABD GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abd/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11390-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:F1 ABD GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abd/
+DESCRIPTION:ABD GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abd/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11391-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:F1 ABD GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abd/
+DESCRIPTION:ABD GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abd/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11392-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:F1 ABD GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/abd/
+DESCRIPTION:ABD GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abd/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11396-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:F1 ABD GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/abd/
+DESCRIPTION:ABD GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abd/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11397-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:F1 Meksika GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/meksika/
+DESCRIPTION:Meksika GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/meksika/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11398-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:F1 Meksika GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/meksika/
+DESCRIPTION:Meksika GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/meksika/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11399-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:F1 Meksika GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/meksika/
+DESCRIPTION:Meksika GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/meksika/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11400-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:F1 Meksika GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/meksika/
+DESCRIPTION:Meksika GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/meksika/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11404-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:F1 Meksika GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/meksika/
+DESCRIPTION:Meksika GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/meksika/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11405-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:F1 Brezilya GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/brezilya/
+DESCRIPTION:Brezilya GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/brezilya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11406-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:F1 Brezilya GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/brezilya/
+DESCRIPTION:Brezilya GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/brezilya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11407-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:F1 Brezilya GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/brezilya/
+DESCRIPTION:Brezilya GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/brezilya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11408-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:F1 Brezilya GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/brezilya/
+DESCRIPTION:Brezilya GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/brezilya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11412-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:F1 Brezilya GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/brezilya/
+DESCRIPTION:Brezilya GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/brezilya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11413-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:F1 Las Vegas GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/las-vegas/
+DESCRIPTION:Las Vegas GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/las-vegas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11414-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:F1 Las Vegas GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/las-vegas/
+DESCRIPTION:Las Vegas GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/las-vegas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11415-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:F1 Las Vegas GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/las-vegas/
+DESCRIPTION:Las Vegas GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/las-vegas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11416-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:F1 Las Vegas GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/las-vegas/
+DESCRIPTION:Las Vegas GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/las-vegas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11420-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:F1 Las Vegas GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/las-vegas/
+DESCRIPTION:Las Vegas GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/las-vegas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11421-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:F1 Katar GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/katar/
+DESCRIPTION:Katar GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/katar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11422-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:F1 Katar GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/katar/
+DESCRIPTION:Katar GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/katar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11423-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:F1 Katar GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/katar/
+DESCRIPTION:Katar GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/katar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11424-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:F1 Katar GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/katar/
+DESCRIPTION:Katar GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/katar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11428-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:F1 Katar GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/katar/
+DESCRIPTION:Katar GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/katar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11429-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:F1 Abu Dabi GP – 1. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abu-dabi/
+DESCRIPTION:Abu Dabi GP 1. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abu-dabi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:1. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11430-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:F1 Abu Dabi GP – 2. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abu-dabi/
+DESCRIPTION:Abu Dabi GP 2. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abu-dabi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11431-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:F1 Abu Dabi GP – 3. antrenman
+URL:https://www.f1telemetri.com/yaris/2026/abu-dabi/
+DESCRIPTION:Abu Dabi GP 3. antrenman. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abu-dabi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3. antrenman 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11432-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:F1 Abu Dabi GP – Sıralama
+URL:https://www.f1telemetri.com/yaris/2026/abu-dabi/
+DESCRIPTION:Abu Dabi GP Sıralama. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abu-dabi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sıralama 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11436-tr@www.f1telemetri.com
+DTSTAMP:20261003T150420Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:F1 Abu Dabi GP – Yarış
+URL:https://www.f1telemetri.com/yaris/2026/abu-dabi/
+DESCRIPTION:Abu Dabi GP Yarış. Sonuçlar: https://www.f1telemetri.com/yaris/2026/abu-dabi/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yarış 15 dakika sonra başlıyor
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
