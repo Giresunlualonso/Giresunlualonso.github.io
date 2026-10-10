@@ -816,3 +816,23 @@ main > section { margin-bottom: 32px; }
 .win-list { margin: 0 0 20px; padding-left: 1.6em; columns: 2 280px; column-gap: 24px; }
 .win-list li { break-inside: avoid; margin-bottom: 4px; }
 .win-list a { text-decoration: none; }
+
+/* Şampiyonluk hesabı (/sampiyonluk/) */
+.title-key { border-left: 3px solid var(--accent); }
+.title-key p { margin: .3em 0; }
+.title-table td { vertical-align: middle; }
+.title-table .tt-bar-c { width: 34%; min-width: 120px; }
+.tt-bar { display: flex; height: 10px; border-radius: 5px; background: var(--surface-2); overflow: hidden; }
+.tt-now { background: var(--tc); }
+.tt-pot { background: repeating-linear-gradient(135deg, var(--tc) 0 3px, transparent 3px 7px); opacity: .55; }
+.tt-out { opacity: .5; }
+.tt-st { font-size: .8rem; font-weight: 700; white-space: nowrap; }
+.tt-st.lead { color: var(--accent-text); } .tt-st.in { color: var(--text); } .tt-st.out { color: var(--muted); }
+.sim-table select { font: inherit; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 3px 6px; }
+#sim-rival { font: inherit; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px; }
+.sim-out { font-size: 1.1rem; margin-top: 1em; }
+.sim-out p { margin: .3em 0; }
+.side-more { margin: 10px 0 0; font-size: .9rem; }
+@media (max-width: 640px) { .title-table .tt-bar-h, .title-table .tt-bar-c { display: none; } }
+.sim-table select.sim-clash { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.sim-out .sim-err { color: var(--accent-text); font-size: 1rem; }
