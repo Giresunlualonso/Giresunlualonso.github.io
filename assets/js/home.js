@@ -36,3 +36,22 @@ if (box && hit) {
   box.replaceChildren(label, title, info);
   box.hidden = false;
 }
+
+// Sıradaki yarışa geri sayım (kenar sütunu)
+const cd = document.querySelector('[data-countdown]');
+if (cd) {
+  const target = new Date(cd.dataset.countdown).getTime();
+  const parts = Object.fromEntries([...cd.querySelectorAll('[data-cd]')].map((el) => [el.dataset.cd, el]));
+  const tick = () => {
+    const left = Math.max(0, target - Date.now());
+    const sec = Math.floor(left / 1000);
+    parts.d.textContent = Math.floor(sec / 86400);
+    parts.h.textContent = String(Math.floor(sec / 3600) % 24).padStart(2, '0');
+    parts.m.textContent = String(Math.floor(sec / 60) % 60).padStart(2, '0');
+    parts.s.textContent = String(sec % 60).padStart(2, '0');
+    if (left === 0) clearInterval(timer);
+  };
+  const timer = setInterval(tick, 1000);
+  tick();
+  cd.hidden = target <= Date.now(); // veri eskiyse (yarış geçmiş) sayaç gösterilmez
+}

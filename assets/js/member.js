@@ -7,6 +7,15 @@ import { t } from '/assets/js/i18n.js';
 import { getUser } from '/assets/js/auth.js';
 import { loadSchedule, upcoming, message, show, MIN } from '/assets/js/reminders.js';
 
+// Telefonda menü düğmesi: menüyü açar/kapar (geniş ekranda düğme gizli, menü hep açık)
+const menuBtn = document.querySelector('.menu-btn');
+if (menuBtn) {
+  const header = menuBtn.closest('.site-header');
+  const set = (open) => { header.classList.toggle('menu-open', open); menuBtn.setAttribute('aria-expanded', String(open)); };
+  menuBtn.addEventListener('click', () => set(menuBtn.getAttribute('aria-expanded') !== 'true'));
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && header.classList.contains('menu-open')) { set(false); menuBtn.focus(); } });
+}
+
 // Yarışlar açılır menüsü: dışarı tıklayınca / Esc ile kapanır; açılınca seçili yıl görünür
 const drop = document.querySelector('.nav-drop');
 if (drop) {
